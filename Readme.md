@@ -1,4 +1,4 @@
-This code was tested again R 3.4.4 on Ubuntu 16.04 LTS. You need to install ImageMagik in order
+This code was tested against R 3.4.4 on Ubuntu 16.04 LTS. You need to install ImageMagik in order
 to have the BoardGame generate the animation of transitions for the Markov Chain. This is done 
 by executing: sudo apt-get install libmagick++-dev imagemagick
 
